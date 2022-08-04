@@ -3,10 +3,10 @@
 A Software Engineer with a demonstrated history of working in Web & Mobile App Development and services industry. <br/>
 I am on my journey to Fullstack Development.
 
-### **Stack I am working with:**
-React - React Native - Node - Express - AWS - SQL - MongoDB
+### 🛠 &nbsp;Tech Stack I am working with:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -14,9 +14,6 @@ React - React Native - Node - Express - AWS - SQL - MongoDB
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
@@ -32,7 +29,10 @@ React - React Native - Node - Express - AWS - SQL - MongoDB
 
 
 
-## Connect with me
+<h3>
+   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px"> Connect With Me
+ 
+</h3> 
 
 <div>
 <a href="mailto:iusmansultan@gmail.com" target="_blank">
